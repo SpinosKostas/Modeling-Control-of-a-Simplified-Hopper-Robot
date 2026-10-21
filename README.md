@@ -12,8 +12,8 @@ Written in Python with NumPy and Matplotlib only, with no external optimization 
 
 | File | Description |
 |------|-------------|
-| [`Hopper_robot.ipynb`] (Hopper_robot.ipynb) | Dynamics, integrators, ALM-based QP solver, trajectory-tracking simulation, plots and animation |
-| `Modeling_Control_of_a_Simplified_Hopper_Robot.pdf` | Paper describing the model, controller, and QP/ALM derivation |
+| [`Hopper_robot.ipynb`](Hopper_robot.ipynb) | Dynamics, integrators, ALM-based QP solver, trajectory-tracking simulation, plots and animation |
+| [`Modeling_Control_of_a_Simplified_Hopper_Robot.pdf`](Modeling_Control_of_a_Simplified_Hopper_Robot.pdf) | Paper describing the model, controller, and QP/ALM derivation |
 
 ---
 

@@ -4,7 +4,7 @@ Simulation and control of a simplified 2D hopper robot, using a **PD controller*
 
 Written in Python with NumPy and Matplotlib only, with no external optimization solver.
 
-📄 Full write-up: [`Modeling_and_Control_of_a_Simplified_Hopper_Robot.pdf`](Modeling_and_Control_of_a_Simplified_Hopper_Robot.pdf)
+📄 Full write-up: [`Modeling_Control_of_a_Simplified_Hopper_Robot.pdf`](Modeling_Control_of_a_Simplified_Hopper_Robot.pdf)
 
 ---
 
